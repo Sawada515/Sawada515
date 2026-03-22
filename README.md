@@ -7,7 +7,7 @@
 </p>
 
 ## Hi, I'm sawada
-Embedded Software Engineer (Student)
+Embedded Software Engineer (Student)<br>
 Interested in Linux, V4L2, and low-level systems.
 
 ## About Me
